@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>Hola</h1>
+        <h1 class="d-flex justify-content-center text-white bg-info">Bem-vindo</h1>
     </div>
 </template>
 <script>

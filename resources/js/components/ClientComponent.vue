@@ -1,5 +1,5 @@
 <template>
-    <div class="px-5">
+    <div class="px-5 py-3">
         <div class="d-flex justify-content-center bg-dark">
             <h1 class="text-success">Friends Fun Teste</h1>
         </div>

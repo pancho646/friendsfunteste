@@ -17,9 +17,7 @@ use Illuminate\Support\Facades\Mail;
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('/inicio',function(){
-    return view('prueba');
-});
+
 Route::resource('Client', ClientController::class);
 
 
